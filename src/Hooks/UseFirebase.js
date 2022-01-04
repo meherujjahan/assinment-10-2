@@ -21,9 +21,9 @@ const UseFirebase = () => {
         .then((result) => {
            
         }).catch((error) => {
-
+               
         });
-
+setUser([])
     }
     useEffect(() => {
         onAuthStateChanged(auth, (user) => {

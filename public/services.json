@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "serviceName": "Nose Operation ",
+        "drname": "Dr. Zobayer Hossain",
+        "courseFee": "$1200",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKAk6nHJslHYtMUuc77POV9WkXHfiClGZTQ&usqp=CAU",
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952",
+        "serviceDetails": "Rhinoplasty (RIE-no-plas-tee) is surgery that changes the shape of the nose. The motivation for rhinoplasty may be to change the appearance of the nose,"
+    },
+    {
+        "id": 2,
+        "serviceName": "Psychology",
+        "drname": "Dr. Rock",
+        "courseFee": "$2000",
+        "url": "https://img.freepik.com/free-photo/healthcare-workers-prevent-virus-insurance-medicine-concept-smiling-attractive-female-doctor-nurse-blue-scrubs-pointing-fingers-left-show-patients-advertisement-important-info_1258-57267.jpg?size=338&ext=jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/771796",
+        "serviceDetails": "Psychology is the scientific study of the mind and behavior. Psychologists are actively involved in studying and understanding mental processes, brain functions, and behavior."
+    },
+    {
+        "id": 3,
+        "serviceName": "Dental Improvemnet",
+        "drname": "Dr. Arif Mahmud",
+        "courseFee": "$1000",
+        "serviceDetails": "Diagnosing oral diseases. Promoting oral health and disease prevention. Creating treatment plans to maintain or restore the oral health of their patients. Interpreting x-rays and diagnostic tests.",
+        "url": "https://image.freepik.com/free-photo/close-up-girl-patient-lying-stomatological-chair-with-open-mouth-during-dental-examination-stomatologist-with-mask-holding-sterilized-tools-checking-teeth-health-kid-before-intervation_482257-3497.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/f66b97"
+    },
+    {
+        "id": 4,
+        "serviceName": "X-ray Report",
+        "drname": "Dr. Rajib Khondokar",
+        "courseFee": "$800",
+        "serviceDetails": "A radiology report includes complex anatomical and medical terms specifically written for healthcare providers. A radiologistreviews your medical history and analyzes your diagnostic imaging.",
+        "url": "https://images.emedicinehealth.com/images/article/main_image/chest-x-ray.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/56a8c2"
+    },
+    {
+        "id": 5,
+        "serviceName": "ECG Report ",
+        "drname": "Dr. Sharif Ahmmed ",
+        "courseFee": "$1200",
+        "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUQBn9RrnScmPMYkJgcTYqePl4mw0QUwJ-3A&usqp=CAU",
+        "serviceDetails": "An electrocardiogram (ECG) is a simple test that can be used to check your heart's rhythm and electrical activity.  Sensors attached to the skin are used to detect the electrical signals produced by your heart each time it beats.",
+        "thumbnailUrl": "https://via.placeholder.com/150/b0f7cc"
+    },
+    {
+        "id": 6,
+        "serviceName": "Blood Test ",
+        "drname": "Nurse Shirin Akter",
+        "constractor": "Jhongkar Mahbub",
+        "courseFee": "$1200",
+        "serviceDetails": "A test done on a sample of blood to measure the amount of certain substances in the blood or to count different types of blood cells.",
+        "url": "https://as2.ftcdn.net/v2/jpg/02/11/04/53/500_F_211045328_HnemU2NVFNwDWnQtDi5JHeHVhMV1jTOr.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/54176f"
+    },
+    {
+        "id": 7,
+        "serviceName": "Health And Nutration",
+        "drname": "Dr. Sumit Shah",
+        "courseFee": "$1100",
+        "serviceDetails": "Learn How Light Can Affect Your Mental Health and Physical Disorders! Boost Your Immunity and Sleep Quality! SOLshine Photo-Nutrition. Learn More. Improve Your Health.",
+        "url": "https://image.shutterstock.com/image-photo/doctor-holding-fresh-fruit-vegetable-260nw-534096772.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/51aa97"
+    },
+    {
+        "id": 8,
+        "serviceName": "Urine Test",
+        "drname": "Dr. Fahima Rahman ",
+        "courseFee": "$800",
+        "serviceDetails": "A urinalysis is a simple test that looks at a small sample of your urine. It can help find problems that need treatment, including infections or kidney problems.",
+        "url": "https://as1.ftcdn.net/v2/jpg/02/00/63/44/500_F_200634426_XlSfjJTw4y49AbWdJNNLCXvDopoHPhDm.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/1ee8a4"
+    },
+    {
+        "id": 9,
+        "serviceName": "Sugar test",
+        "drname": "Dr. Ashik kumar",
+        "courseFee": "$700",
+        "serviceDetails": "A urinalysis is a simple test that looks at a small sample of your urine. It can help find problems that need treatment, including infections or kidney problems.",
+        "url": "https://as1.ftcdn.net/v2/jpg/01/81/41/36/500_F_181413640_s8Pzq5NxaDHHT57OTwOuUyGE74HYTRBB.jpg",
+        "thumbnailUrl": "https://via.placeholder.com/150/197d29"
+    }
+]

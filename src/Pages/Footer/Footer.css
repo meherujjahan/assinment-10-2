@@ -1,0 +1,8 @@
+.footer-area{
+    background-color: rgb(138, 132, 132);
+    height: 80px;
+    color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

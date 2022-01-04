@@ -1,0 +1,17 @@
+.header {
+    background-image:url("../../image/adhy-savala-zbpgmGe27p8-unsplash.jpg"),linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+    height: 100vh;
+    width: 100%;
+    background-blend-mode: overlay; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+  }
+  .company-title {
+    color: white;
+    font-weight: bold;
+    font-size: 45px;
+  }
+  .company-name{
+      color: rgb(240, 82, 19);
+  }
